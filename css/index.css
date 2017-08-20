@@ -14,7 +14,6 @@ body {
 
 #grass {
   background-color: #c9dbb6;
-
 }
 
 h1,
@@ -36,7 +35,6 @@ a {
   font-family: 'Lato', sans-serif;
   font-style: italic;
   color: #2c3e50;
-
 }
 
 .background {
@@ -46,7 +44,6 @@ a {
   width: 100%;
   height: auto;
   background-image: url(img/background.jpg);
-
 }
 
 .background>h1 {
@@ -56,7 +53,6 @@ a {
   width: 70%;
   text-align: center;
   color: #c9dbb6;
-
 }
 
 .background>h2 {
@@ -158,13 +154,11 @@ a {
 
 #benefits p {
   font-size: 25px;
-
 }
 
 #requirements {
   width: 100%;
   margin: 0;
-
 }
 
 aside {
@@ -202,8 +196,10 @@ aside>div>div>h3 {
   text-align: center;
   color: #c9dbb6;
 }
-nav ul li a, nav ul li p{
-    width: 100%;
+
+nav ul li a,
+nav ul li p {
+  width: 100%;
   text-align: center;
   color: #c9dbb6;
 }
