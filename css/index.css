@@ -103,12 +103,6 @@ a {
   width: 400px;
 }
 
-.road>img {
-  width: 400px;
-  height: 250px;
-  margin: 30px 0;
-}
-
 .about {
   display: flex;
   flex-wrap: wrap;
